@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ue_5.3 projects\\racinggame\\intermediate\\build\\win64\\x64\\unrealgame\\development\\racinggame\\module.racinggame.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue_5.3 projects\\racinggame\\intermediate\\build\\win64\\x64\\racinggame\\development\\core\\sharedpch.core.cpp17.h.pch",
+        "Includes": [
+            "d:\\ue_5.3 projects\\racinggame\\intermediate\\build\\win64\\x64\\unrealgame\\development\\racinggame\\definitions.racinggame.h",
+            "d:\\ue_5.3 projects\\racinggame\\intermediate\\source\\racinggame.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,52 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UE_5.3 projects/RacingGame/Content/RacingGame/Framework/GM_RacingGame.uasset",
+				"D:/UE_5.3 projects/RacingGame/Content/VehicleTemplate/Maps/VehicleExampleMap.umap",
+				"D:/UE_5.3 projects/RacingGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/3/XS/XRZHHU17DD7GJT2A5IZIZH.uasset",
+				"D:/UE_5.3 projects/RacingGame/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_WheelsFront.uasset",
+				"D:/UE_5.3 projects/RacingGame/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_WheelsRear.uasset",
+				"D:/UE_5.3 projects/RacingGame/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.uasset",
+				"D:/UE_5.3 projects/RacingGame/Content/VehicleTemplate/Blueprints/VehicleAdvPawn.uasset",
+				"D:/UE_5.3 projects/RacingGame/Content/EndLevelSequence/GameEndSequence.uasset",
+				"D:/UE_5.3 projects/RacingGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/OV/83W7IXH4TGHRI72ZDV4BUN.uasset",
+				"D:/UE_5.3 projects/RacingGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/S7/2NX9ZP7Z2SEKB8KO5J9VC2.uasset",
+				"D:/UE_5.3 projects/RacingGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/FV/0ORXDSHBYQOS2A920WHDXV.uasset",
+				"D:/UE_5.3 projects/RacingGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/76/YJP85A4P2ZE6QYF4TIS7MO.uasset",
+				"D:/UE_5.3 projects/RacingGame/Content/RacingGame/DM_C.uasset",
+				"D:/UE_5.3 projects/RacingGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/3/WF/FWME1MZAT7CHDYQ4388DPO.uasset",
+				"D:/UE_5.3 projects/RacingGame/Content/RacingGame/Framework/BP_Checkpoint.uasset",
+				"D:/UE_5.3 projects/RacingGame/Content/VehicleTemplate/Blueprints/VehicleUI.uasset",
+				"D:/UE_5.3 projects/RacingGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/7/EA/5RJKKL7M4NTA2NTKGD3HIV.uasset",
+				"D:/UE_5.3 projects/RacingGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/4/82/0TD57IYE2FS40Q5Q9E9GXX.uasset",
+				"D:/UE_5.3 projects/RacingGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/3I/TI54SUK2MSQH02LT5F6F65.uasset",
+				"D:/UE_5.3 projects/RacingGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/MP/FSHJ46VNG4E4MTI11UFDXI.uasset",
+				"D:/UE_5.3 projects/RacingGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/A/JE/4WPMEG3FCVU4A983V1UWVV.uasset",
+				"D:/UE_5.3 projects/RacingGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/B/TK/MW2PQ68XLFZQR1794D3Y5P.uasset",
+				"D:/UE_5.3 projects/RacingGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/D/9G/CZF1OX8QUOWJ0M2HW0SWUC.uasset",
+				"D:/UE_5.3 projects/RacingGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/ML/5U1XH0PQX8KGSUQOFOJ24X.uasset",
+				"D:/UE_5.3 projects/RacingGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/9/VB/Q8XUMI0LVYLD8ERVN97YP2.uasset",
+				"D:/UE_5.3 projects/RacingGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/8/Q1/PRXB4O5VHY9CYO2HHJQGWU.uasset",
+				"D:/UE_5.3 projects/RacingGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/D/PD/W2X4LLRXMUR9SQCWG313UT.uasset",
+				"D:/UE_5.3 projects/RacingGame/Content/VehicleTemplate/Blueprints/VehicleUI1.uasset",
+				"D:/UE_5.3 projects/RacingGame/Content/VehicleTemplate/Blueprints/VehiclePlayerController.uasset",
+				"D:/UE_5.3 projects/RacingGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/3/A7/7NLWHDVJB27R9Y8QXZILJH.uasset",
+				"D:/UE_5.3 projects/RacingGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/08/NFI6N2X9R2S2E9869VYUXV.uasset",
+				"D:/UE_5.3 projects/RacingGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/D/QE/LWV4U0IFTOUZJV6MZDU7ZG.uasset",
+				"D:/UE_5.3 projects/RacingGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/9/FT/F6C3KH6J63Q5AY6L6ARD7N.uasset",
+				"D:/UE_5.3 projects/RacingGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/8/9J/V1X7EJ1BL9AFC9BX0BWYZ3.uasset",
+				"D:/UE_5.3 projects/RacingGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/7/C8/LPOP6CXABRD0GQL4WHA3ZW.uasset",
+				"D:/UE_5.3 projects/RacingGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/0/PN/Z6T7TO1WWVSPXRB91ADSWW.uasset",
+				"D:/UE_5.3 projects/RacingGame/Content/Megascans/3D_Assets/Concrete_Curb_vlmibeh/MI_Concrete_Curb_vlmibeh_2K.uasset",
+				"D:/UE_5.3 projects/RacingGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/D/1Y/NVQDYDL15V9MYP1EVXKEVE.uasset",
+				"D:/UE_5.3 projects/RacingGame/Content/RacingGame/Checkpoints/BP_Checkpoint.uasset",
+				"D:/UE_5.3 projects/RacingGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/A/WG/98I4WA7T1BM4S8VSI760KK.uasset",
+				"D:/UE_5.3 projects/RacingGame/Content/VehicleTemplate/Input/Actions/IA_Break.uasset"
+			]
+		}
+	]
+}

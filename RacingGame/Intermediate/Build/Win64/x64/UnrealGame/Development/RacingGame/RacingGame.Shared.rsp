@@ -1,0 +1,11 @@
+/I "."
+/I "Runtime\Core\Public"
+/I "Runtime\Core\Internal"
+/I "Runtime\TraceLog\Public"
+/external:W0
+/external:I "ThirdParty\mimalloc\include"
+/external:I "D:\VisualStudioIDE\VC\Tools\MSVC\14.36.32532\INCLUDE"
+/external:I "D:\Windows Kits\10\include\10.0.22000.0\ucrt"
+/external:I "D:\Windows Kits\10\include\10.0.22000.0\shared"
+/external:I "D:\Windows Kits\10\include\10.0.22000.0\um"
+/external:I "D:\Windows Kits\10\include\10.0.22000.0\winrt"

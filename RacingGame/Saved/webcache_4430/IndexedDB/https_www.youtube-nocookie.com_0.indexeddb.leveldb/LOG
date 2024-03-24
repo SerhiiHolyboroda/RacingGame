@@ -1,0 +1,6 @@
+2024/03/24-16:14:33.451 24a8 Creating DB D:/UE_5.3 projects/RacingGame/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/03/24-16:14:36.014 24a8 Reusing MANIFEST D:/UE_5.3 projects/RacingGame/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/24-16:18:50.029 16e4 Level-0 table #5: started
+2024/03/24-16:18:50.044 16e4 Level-0 table #5: 1167 bytes OK
+2024/03/24-16:18:50.046 16e4 Delete type=0 #3
+2024/03/24-16:18:50.058 16e4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
